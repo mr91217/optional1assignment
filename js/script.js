@@ -12,6 +12,7 @@ function change_text(){
 }
 
 var mainEl = document.getElementById('main');
+
 var play = function(){
 var score = 0;
 
@@ -40,7 +41,7 @@ alert('You got ' + score + '/' + questions.length);
 mainEl.textContent = ('You got ' + score + '/' + questions.length)
 }
 
-play();
+// play();
 
 var timerEl = document.getElementById('countdown');
 
