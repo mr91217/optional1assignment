@@ -1,0 +1,31 @@
+body{
+    margin: 15vw 20vw;
+    background-color: antiquewhite;
+}
+
+section {
+   text-align: center;
+   background-color: aqua;
+   padding: 0%
+   
+}
+
+button{
+    border-radius: 50%;
+    background-color: #024E76;
+    color: #fce138;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#exit{
+    color: red;
+    
+}
+
+.qa h1{
+    font-weight: bold;
+    font-size: 32px;
+    margin: 10% 0%;
+}
